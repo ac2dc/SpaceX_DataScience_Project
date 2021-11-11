@@ -80,7 +80,7 @@ def update_piegraph(site_dropdown):
             )
     else:
         site_specific  = spacex_df.loc[spacex_df['Launch Site'] == site_dropdown]
-        fig = px.pie(
+  After visual inspection using dashboard here are some insights :      fig = px.pie(
                 site_specific,
                 names = 'class',
                 title = 'Total Success Launches for Site' +site_dropdown,
