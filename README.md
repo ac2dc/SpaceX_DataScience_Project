@@ -5,14 +5,9 @@
     Winning Space Race with DataScience
 </h1>
 
-## About this course
-
-<a href="https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science" rel="noopener"> ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) </a>
 
 This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders.
  
- ##  <a href="https://www.coursera.support/s/article/209818863-Coursera-Honor-Code"> NO CHEATING  ![](https://img.shields.io/badge/Honor%20Code-Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)</a>
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -86,14 +81,10 @@ In this capstone, I take the role of a data scientist working for a new rocket c
 
 ## Study Materials <a name = "extra_study"></a>
 
-Dont jump into labs without study. Take time to study previous labs step by step and also practice on your own laptop locally by installing Anaconda. This will also limit the usage of IBM Cloud Trial version. 
-
 - [Plotly](https://dash.plotly.com/layout)
 - [Folium](https://python-visualization.github.io/folium/plugins.html)
 - [Folium Examples](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/)
 - [Confusion Matrix](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
-
-#### © Copyright IBM Corporation
 
 <a href="https://www.linkedin.com/in/bhaskar-das-4544a6a3/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
