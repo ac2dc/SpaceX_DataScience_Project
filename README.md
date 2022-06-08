@@ -6,7 +6,7 @@
 </h1>
 
 
-This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders.
+This capstone project  will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders etc.
  
 ## Table of Contents
 
@@ -29,7 +29,7 @@ The commercial space age is here, companies are making space travel affordable f
 
 ![SpaceX Launch Success Instances](https://github.com/ac2dc/SpaceX_DataScience_Project/blob/master/images/success.gif)
 
-In this capstone, I take the role of a data scientist working for a new rocket company. Space Y that would like to compete with SpaceX founded by Billionaire industrialist Allon Musk. My job is to determine the price of each launch. I have to do this by gathering information about Space X and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
+In this project, I take the role of a data scientist working for a new rocket company. Space Y that would like to compete with SpaceX founded by Billionaire industrialist Allon Musk. My job is to determine the price of each launch. I have to do this by gathering information about Space X and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
 
 ##   Week 1 : Data Collection and Wrangling<a name = "week1"></a>
 
@@ -86,5 +86,5 @@ In this capstone, I take the role of a data scientist working for a new rocket c
 - [Folium Examples](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/)
 - [Confusion Matrix](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 
-<a href="https://www.linkedin.com/in/bhaskar-das-4544a6a3/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/ac2dc"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
